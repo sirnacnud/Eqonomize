@@ -1,3 +1,25 @@
+2021-03-18  Hanna Knutsson <hanna.knutsson@protonmail.com>
+
+	* Remove total security rate value
+	* Fix security rate for future dates
+
+2021-03-17  Hanna Knutsson <hanna.knutsson@protonmail.com>
+
+	* Fix segfault with scheduled security transaction without recurrence
+
+2021-01-07  Hanna Knutsson <hanna.knutsson@protonmail.com>
+
+	* Fix handling parentheses when calculating expression in value entry
+	* Fix initial state of "Bank" entry when initial account type is not "Cash"
+
+2020-12-14  Hanna Knutsson <hanna.knutsson@protonmail.com>
+
+	* Danish translation (from Tag Valdemar)
+
+2020-12-10  Hanna Knutsson <hanna.knutsson@protonmail.com>
+
+	* Open ledger on account double click regardless of column
+
 2020-08-30  Hanna Knutsson <hanna.knutsson@protonmail.com>
 
 	* Allow separate comments for each transaction in an expense/income
